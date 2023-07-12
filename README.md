@@ -1,3 +1,4 @@
 # RINL-ComplaintPortal
- This project was done in my summer training-2023 in the RINL Vizag steel plant. I made a complaint portal to register different complaints inside the steel plant by taking a picture and giving a description and location. This is stored in the database, which can help ease the work of the concerned departments 
-Project report ->  https://drive.google.com/file/d/1-5J4ug7kOmgigIQ0FIQ81ps-D2jcfc7V/view?usp=sharing
+ This website was done as part of my summer-23 training at RINL Steel plant - a govt PSU. The website helps employees to register different types of civil complaints noticed at their workplace. The data is collected in a NoSQL database MongoDB and is given access to the head of the concerned departments.
+Project report -> https://drive.google.com/file/d/1BsD72Bv9Uy-TyozHkcWYnZCKwiXm4ZyH/view?usp=sharing
+Certificate issued by RINL -> https://drive.google.com/file/d/1qKkqtzZdoRYx2dERXCdmKVvnFuhjQVPE/view?usp=sharing
